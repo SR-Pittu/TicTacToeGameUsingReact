@@ -19,6 +19,10 @@ An interactive and audio-enhanced Tic Tac Toe game built using React. This proje
 - **Audio Integration (WAV files)**
 
 
+## 🌐 Live Demo
+
+Play the game here: [Tic Tac Toe Game](https://SR-Pittu.github.io/TicTacToeGameUsingReact)
+
 ## 🧪 How to Run Locally
 
 ```bash
@@ -27,6 +31,17 @@ cd TicTacToeGameUsingReact
 npm install
 npm start
 ```
+
+## 🚀 Deployment
+
+This project is deployed on GitHub Pages. To deploy:
+
+```bash
+npm run build
+npm run deploy
+```
+
+The app will be published to: `https://SR-Pittu.github.io/TicTacToeGameUsingReact`
 
 ## 💡 What I Learned
 - Applied React’s `useState` and `useEffect` for real-time state updates
