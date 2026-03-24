@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/.github.io/TicTacToeGameUsingReact/static/css/main.5556008e.css",
+    "main.js": "/.github.io/TicTacToeGameUsingReact/static/js/main.504b30f3.js",
+    "static/js/787.d4aba7ab.chunk.js": "/.github.io/TicTacToeGameUsingReact/static/js/787.d4aba7ab.chunk.js",
+    "static/media/gameOver.wav": "/.github.io/TicTacToeGameUsingReact/static/media/gameOver.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/.github.io/TicTacToeGameUsingReact/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/.github.io/TicTacToeGameUsingReact/index.html",
+    "main.5556008e.css.map": "/.github.io/TicTacToeGameUsingReact/static/css/main.5556008e.css.map",
+    "main.504b30f3.js.map": "/.github.io/TicTacToeGameUsingReact/static/js/main.504b30f3.js.map",
+    "787.d4aba7ab.chunk.js.map": "/.github.io/TicTacToeGameUsingReact/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5556008e.css",
+    "static/js/main.504b30f3.js"
+  ]
+}
